@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
 
+// creating jframe
 public class App extends JFrame{
 
     JLabel label1, label2;
